@@ -1,0 +1,145 @@
+PCAD Importer Log
+Project : 103091_B0.PrjPcb
+
+Section : C:\Users\dmh\Documents\Altium\103091_B0\103091_B0.pcb
+    Section : Load Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 5815
+        Warning - 1 : Skipping Token defaultPinDes On Line 5816
+        Warning - 1 : Skipping Token defaultPinDes On Line 5817
+        Warning - 1 : Skipping Token defaultPinDes On Line 5818
+        Warning - 1 : Skipping Token defaultPinDes On Line 5819
+        Warning - 1 : Skipping Token defaultPinDes On Line 5820
+        Warning - 1 : Skipping Token defaultPinDes On Line 5821
+        Warning - 1 : Skipping Token defaultPinDes On Line 5822
+        Warning - 1 : Skipping Token defaultPinDes On Line 5823
+        Warning - 1 : Skipping Token defaultPinDes On Line 5824
+        Warning - 1 : Skipping Token defaultPinDes On Line 5825
+        Warning - 1 : Skipping Token defaultPinDes On Line 5826
+        Warning - 1 : Skipping Token defaultPinDes On Line 5848
+        Warning - 1 : Skipping Token defaultPinDes On Line 5849
+        Warning - 1 : Skipping Token defaultPinDes On Line 5869
+        Warning - 1 : Skipping Token defaultPinDes On Line 5870
+        Warning - 1 : Skipping Token defaultPinDes On Line 5942
+        Warning - 1 : Skipping Token defaultPinDes On Line 5943
+        Warning - 1 : Skipping Token defaultPinDes On Line 5964
+        Warning - 1 : Skipping Token defaultPinDes On Line 5965
+        Warning - 1 : Skipping Token defaultPinDes On Line 5986
+        Warning - 1 : Skipping Token defaultPinDes On Line 5987
+        Warning - 1 : Skipping Token defaultPinDes On Line 6007
+        Warning - 1 : Skipping Token defaultPinDes On Line 6008
+        Warning - 1 : Skipping Token defaultPinDes On Line 6009
+        Warning - 1 : Skipping Token defaultPinDes On Line 6010
+        Warning - 1 : Skipping Token defaultPinDes On Line 6011
+        Warning - 1 : Skipping Token defaultPinDes On Line 6012
+        Warning - 1 : Skipping Token defaultPinDes On Line 6013
+        Warning - 1 : Skipping Token defaultPinDes On Line 6014
+        Warning - 1 : Skipping Token defaultPinDes On Line 6015
+        Warning - 1 : Skipping Token attachedSymbol On Line 6047
+        Warning - 1 : Skipping Token attachedSymbol On Line 6077
+        Warning - 1 : Skipping Token attachedSymbol On Line 6097
+        Warning - 1 : Skipping Token attachedSymbol On Line 6117
+        Warning - 1 : Skipping Token attachedSymbol On Line 6137
+        Warning - 1 : Skipping Token attachedSymbol On Line 6157
+        Warning - 1 : Skipping Token attachedSymbol On Line 6178
+        Warning - 1 : Skipping Token attachedSymbol On Line 6206
+        Warning - 1 : Skipping Token refPointSize On Line 6404
+        Warning - 1 : Skipping Token infoPointSize On Line 6405
+        Warning - 1 : Skipping Token gluePointSize On Line 6406
+        Warning - 1 : Skipping Token pickPointSize On Line 6407
+        Warning - 1 : Skipping Token testPointSize On Line 6408
+        Warning - 1 : Skipping Token refPointSizePrint On Line 6409
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 6410
+        Warning - 1 : Skipping Token gluePointSizePrint On Line 6411
+        Warning - 1 : Skipping Token pickPointSizePrint On Line 6412
+        Warning - 1 : Skipping Token testPointSizePrint On Line 6413
+        Warning - 1 : Skipping Token solderFlowDirection On Line 6414
+        Warning - 1 : Skipping Token globalCopperPourCutoutBackoffFlag On Line 6415
+        Warning - 1 : Skipping Token netNameRef On Line 6833
+        Warning - 1 : Skipping Token island On Line 6835
+        Warning - 1 : Skipping Token netNameRef On Line 6969
+        Warning - 1 : Skipping Token island On Line 6971
+        Warning - 1 : Skipping Token netNameRef On Line 7186
+        Warning - 1 : Skipping Token island On Line 7188
+        Warning - 1 : Skipping Token netNameRef On Line 7335
+        Warning - 1 : Skipping Token island On Line 7337
+        Warning - 1 : Skipping Token island On Line 7365
+        Warning - 1 : Skipping Token netNameRef On Line 7512
+        Warning - 1 : Skipping Token island On Line 7514
+        Warning - 1 : Skipping Token netNameRef On Line 7693
+        Warning - 1 : Skipping Token island On Line 7695
+        Warning - 1 : Skipping Token netNameRef On Line 7948
+        Warning - 1 : Skipping Token island On Line 7950
+        Warning - 1 : Skipping Token netNameRef On Line 8309
+        Warning - 1 : Skipping Token island On Line 8311
+        Warning - 1 : Skipping Token netNameRef On Line 8823
+        Warning - 1 : Skipping Token island On Line 8825
+        Warning - 1 : Skipping Token drillSymSettings On Line 9152
+        Warning - 1 : Skipping Token gerberSettings On Line 9157
+        Warning - 1 : Skipping Token ncDrillSettings On Line 9999
+        Warning - 1 : Skipping Token programState On Line 10031
+        Warning - 1 : Skipping Token reportSettings On Line 10073
+        Warning - 1 : Skipping Token odbSettings On Line 10796
+    EndSection
+
+    Section : Import Messages
+        Warning - 0 : PCAD Pattern Graphics [CC1206][Primary] associated with PCAD Component [CC1206_NP] has been renamed to PCB FootPrint [CC1206_CC1206_NP(Primary)].
+    EndSection
+EndSection
+
+Section : C:\Users\dmh\Documents\Altium\103091_B0\103091_B0.sch
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 232
+        Warning - 1 : Skipping Token defaultPinDes On Line 240
+        Warning - 1 : Skipping Token defaultPinDes On Line 258
+        Warning - 1 : Skipping Token defaultPinDes On Line 266
+        Warning - 1 : Skipping Token defaultPinDes On Line 284
+        Warning - 1 : Skipping Token defaultPinDes On Line 292
+        Warning - 1 : Skipping Token defaultPinDes On Line 311
+        Warning - 1 : Skipping Token defaultPinDes On Line 319
+        Warning - 1 : Skipping Token defaultPinDes On Line 337
+        Warning - 1 : Skipping Token defaultPinDes On Line 345
+        Warning - 1 : Skipping Token defaultPinDes On Line 364
+        Warning - 1 : Skipping Token defaultPinDes On Line 372
+        Warning - 1 : Skipping Token defaultPinDes On Line 394
+        Warning - 1 : Skipping Token defaultPinDes On Line 402
+        Warning - 1 : Skipping Token defaultPinDes On Line 410
+        Warning - 1 : Skipping Token defaultPinDes On Line 418
+        Warning - 1 : Skipping Token defaultPinDes On Line 426
+        Warning - 1 : Skipping Token defaultPinDes On Line 434
+        Warning - 1 : Skipping Token defaultPinDes On Line 442
+        Warning - 1 : Skipping Token defaultPinDes On Line 450
+        Warning - 1 : Skipping Token defaultPinDes On Line 491
+        Warning - 1 : Skipping Token defaultPinDes On Line 499
+        Warning - 1 : Skipping Token defaultPinDes On Line 507
+        Warning - 1 : Skipping Token defaultPinDes On Line 515
+        Warning - 1 : Skipping Token defaultPinDes On Line 523
+        Warning - 1 : Skipping Token defaultPinDes On Line 531
+        Warning - 1 : Skipping Token defaultPinDes On Line 539
+        Warning - 1 : Skipping Token defaultPinDes On Line 547
+        Warning - 1 : Skipping Token defaultPinDes On Line 555
+        Warning - 1 : Skipping Token defaultPinDes On Line 563
+        Warning - 1 : Skipping Token defaultPinDes On Line 571
+        Warning - 1 : Skipping Token defaultPinDes On Line 579
+        Warning - 1 : Skipping Token gridDfns On Line 981
+        Warning - 1 : Skipping Token refPointSize On Line 1006
+        Warning - 1 : Skipping Token infoPointSize On Line 1007
+        Warning - 1 : Skipping Token junctionSize On Line 1008
+        Warning - 1 : Skipping Token refPointSizePrint On Line 1009
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 1010
+        Warning - 1 : Skipping Token junctionSizePrint On Line 1011
+        Warning - 1 : Skipping Token PrintRegion On Line 1202
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 1206
+        Warning - 1 : Skipping Token ecoState On Line 1221
+        Warning - 1 : Skipping Token currentTextStyle On Line 1222
+        Warning - 1 : Skipping Token reportSettings On Line 1225
+    EndSection
+
+    Section : Generating SCH Library - 103091_B0.SchLib
+        Warning : Create component variant [CAP_0805_VARIANT_1] for component with original name [CAP_0805]
+    EndSection
+
+    Section : Generating SCH Sheet - main.SCHDOC
+        Warning : Add Power Object for Pin Name [GNDD] at location [11300mil : 6400mil]
+        Warning : Add Power Object for Pin Name [GNDD] at location [4650mil : 6800mil]
+    EndSection
+EndSection

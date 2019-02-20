@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 103091_B0_Panel.PcbDoc   2/20/2019  12:49:47 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer, Top to Bottom Layer, Bottom
+ASCII RoundHoles File : 103091_B0_Panel.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      5mil (0.127mm)          +/-3mil (0.076mm)                 Round             48        PTH        0.00inch (0.00mm)
+T2      5mil (0.127mm)                                            Round             464       PTH        0.00inch (0.00mm)
+T3      15mil (0.381mm)         +/-3mil (0.076mm)                 Round             16        PTH        0.00inch (0.00mm)
+T4      15mil (0.381mm)                                           Round             432       PTH        0.00inch (0.00mm)
+T5      17mil (0.432mm)         +/-3mil (0.076mm)                 Round             16        PTH        0.00inch (0.00mm)
+T6      20mil (0.508mm)         +/-0mil (0.01mm)                  Round             16        PTH        0.00inch (0.00mm)
+T7      38mil (0.965mm)                                           Round             192       PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1184
+
+Total Processing Time (hh:mm:ss) : 00:00:00

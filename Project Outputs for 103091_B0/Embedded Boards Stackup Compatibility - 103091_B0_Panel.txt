@@ -1,0 +1,13 @@
+Stackup Compatibility
+Filename     : C:\Users\dmh\Documents\Altium\103091_B0\Imported (1) 103091_B0.PrjPcb\103091_B0_Panel.PcbDoc
+Date         : 2/20/2019
+Time         : 11:50:34 AM
+Time Elapsed : 00:00:00
+
+103091_B0_Panel, 103091_B0
+    Top Layer, Top (Signal), Top Layer, Top (Signal)
+    Mid-Layer 1, mid_gnd (Signal), Mid-Layer 1, mid_gnd (Signal)
+    Mid-Layer 2, mid_vin_out (Signal), Mid-Layer 2, mid_vin_out (Signal)
+    Bottom Layer, Bottom (Signal), Bottom Layer, Bottom (Signal)
+    Open Layer Stack Manager, Open Layer Stack Manager
+count : 5

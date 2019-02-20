@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: 103091_B0_Panel.GBR   2/20/2019  12:46:18 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay, Top Silk                   
+.GTP                Top Paste, Top Paste                    
+.GTS                Top Solder, Top Mask                    
+.GTL                Top Layer, Top                          
+.G1                 Mid-Layer 1, mid_gnd                    
+.G2                 Mid-Layer 2, mid_vin_out                
+.GBL                Bottom Layer, Bottom                    
+.GBS                Bottom Solder, Bot Mask                 
+.GBP                Bottom Paste, Bot Paste                 
+.GBO                Bottom Overlay, Bot Silk                
+.GKO                Keep-Out Layer                          
+.GD1                Drill Drawing                           
+------------------------------------------------------------------------------------------

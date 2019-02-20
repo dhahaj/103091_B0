@@ -1,0 +1,236 @@
+*************************************************************
+FileName = 103091_B0_Panel.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mid-Layer 2, mid_vin_out
+      File : 103091_B0_Panel.G2
+
+    Adding Layer      : Mid-Layer 2, mid_vin_out
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer, Bottom
+      File : 103091_B0_Panel.GBL
+
+    Adding Layer      : Bottom Layer, Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay, Top Silk
+      File : 103091_B0_Panel.GTO
+
+    Adding Layer      : Top Overlay, Top Silk
+
+
+Used DCodes :
+    D24
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Paste, Top Paste
+      File : 103091_B0_Panel.GTP
+
+    Adding Layer      : Top Paste, Top Paste
+
+    Adding Layer      : Top Layer, Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Solder, Top Mask
+      File : 103091_B0_Panel.GTS
+
+    Adding Layer      : Top Solder, Top Mask
+
+    Adding Layer      : Top Layer, Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder, Bot Mask
+      File : 103091_B0_Panel.GBS
+
+    Adding Layer      : Bottom Solder, Bot Mask
+
+    Adding Layer      : Bottom Layer, Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste, Bot Paste
+      File : 103091_B0_Panel.GBP
+
+    Adding Layer      : Bottom Paste, Bot Paste
+
+    Adding Layer      : Bottom Layer, Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay, Bot Silk
+      File : 103091_B0_Panel.GBO
+
+    Adding Layer      : Bottom Overlay, Bot Silk
+
+
+Used DCodes :
+    D33
+    D35
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : 103091_B0_Panel.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : 103091_B0_Panel.GD1
+
+    Adding Drill Pair : Top Layer, Top-Bottom Layer, Bottom
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D23
+    D24
+    D32
+    D33
+    D35
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Mid-Layer 1, mid_gnd
+      File : 103091_B0_Panel.G1
+
+    Adding Layer      : Mid-Layer 1, mid_gnd
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D28
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Layer, Top
+      File : 103091_B0_Panel.GTL
+
+    Adding Layer      : Top Layer, Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
