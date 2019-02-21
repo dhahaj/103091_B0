@@ -1,5 +1,0 @@
-DRC Rules Export File for PCB: C:\Users\dmh\Documents\Altium\103091_B0\Imported (1) 103091_B0.PrjPcb\103091_B0_Panel.PcbDoc
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
