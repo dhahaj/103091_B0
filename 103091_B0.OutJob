@@ -221,7 +221,7 @@ OutputEnabled10_OutputMedium4=0
 OutputEnabled10_OutputMedium5=0
 OutputDefault10=0
 Configuration10_Name1=OutputConfigurationParameter1
-Configuration10_Item1=Record=ExportDWGView|Version=25|Format=DXF|Units=0|WidthSmallest=0.0039|WidthSmall=0.0118|WidthMedium=0.0295|WidthLarge=0.04|ExportTemplate=True|IgnoreSolid=True|ImportSmallest=10|ImportSmall=12|ImportMedium=30|Scale=1|ExplodeBlocks=True
+Configuration10_Item1=Record=ExportDWGView|Version=61|Format=DXF|Units=0|WidthSmallest=0.0039|WidthSmall=0.0118|WidthMedium=0.0295|WidthLarge=0.04|ExportTemplate=False|IgnoreSolid=True|ImportSmallest=10|ImportSmall=12|ImportMedium=30|Scale=1|ExplodeBlocks=True
 
 [PublishSettings]
 OutputFilePath2=
@@ -263,7 +263,7 @@ OutputFileName3=
 OutputFileNameMulti3=
 UseOutputNameForMulti3=1
 OutputFileNameSpecial3=
-OpenOutput3=0
+OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
 OutputBasePath4=Project Outputs for 103091_B0
@@ -333,7 +333,7 @@ PDFVersion5=Default
 RelativeOutputPath2=
 OpenOutputs2=1
 RelativeOutputPath3=C:\Users\dmh\Documents\Altium\103091_B0\Imported (1) 103091_B0.PrjPcb\Project Outputs for 103091_B0\
-OpenOutputs3=0
+OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
 UseOutputName3=0
