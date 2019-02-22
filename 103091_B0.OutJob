@@ -193,7 +193,7 @@ OutputEnabled8_OutputMedium4=0
 OutputEnabled8_OutputMedium5=0
 OutputDefault8=0
 Configuration8_Name1=OutputConfigurationParameter1
-Configuration8_Item1=Record=ExportDXFView|ACadVersion=37|UseRoundedTracks=True|Components=0|HoleMode=1|Units=0|OutputFormat=1|OnlyVisibleLayers=False|ZeroWidthLines=0
+Configuration8_Item1=Record=ExportDXFView|ACadVersion=61|UseRoundedTracks=True|Components=1|HoleMode=2|Units=0|OutputFormat=1|OnlyVisibleLayers=False|ZeroWidthLines=0
 OutputType9=AutoCAD dwg/dxf PCB
 OutputName9=Panel DXF
 OutputCategory9=Export
@@ -207,7 +207,7 @@ OutputEnabled9_OutputMedium4=0
 OutputEnabled9_OutputMedium5=0
 OutputDefault9=0
 Configuration9_Name1=OutputConfigurationParameter1
-Configuration9_Item1=Record=ExportDXFView|ACadVersion=25|UseRoundedTracks=True|Components=0|HoleMode=1|Units=0|OutputFormat=1|OnlyVisibleLayers=False|ZeroWidthLines=0
+Configuration9_Item1=Record=ExportDXFView|ACadVersion=61|UseRoundedTracks=True|Components=0|HoleMode=1|Units=0|OutputFormat=1|OnlyVisibleLayers=False|ZeroWidthLines=0
 OutputType10=AutoCAD dwg/dxf Schematic
 OutputName10=AutoCAD dwg/dxf File Schematic
 OutputCategory10=Export
@@ -221,7 +221,43 @@ OutputEnabled10_OutputMedium4=0
 OutputEnabled10_OutputMedium5=0
 OutputDefault10=0
 Configuration10_Name1=OutputConfigurationParameter1
-Configuration10_Item1=Record=ExportDWGView|Version=61|Format=DXF|Units=0|WidthSmallest=0.0039|WidthSmall=0.0118|WidthMedium=0.0295|WidthLarge=0.04|ExportTemplate=False|IgnoreSolid=True|ImportSmallest=10|ImportSmall=12|ImportMedium=30|Scale=1|ExplodeBlocks=True
+Configuration10_Item1=Record=ExportDWGView|Version=61|Format=DXF|Units=0|WidthSmallest=0.0039|WidthSmall=0.0118|WidthMedium=0.0295|WidthLarge=0.04|ExportTemplate=True|IgnoreSolid=True|ImportSmallest=10|ImportSmall=12|ImportMedium=30|Scale=1|ExplodeBlocks=True
+OutputType11=Composite
+OutputName11=Composite Drawing
+OutputCategory11=Documentation
+OutputDocumentPath11=103091_B0.PcbDoc
+OutputVariantName11=
+OutputEnabled11=0
+OutputEnabled11_OutputMedium1=0
+OutputEnabled11_OutputMedium2=0
+OutputEnabled11_OutputMedium3=0
+OutputEnabled11_OutputMedium4=0
+OutputEnabled11_OutputMedium5=0
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration11_Name1=OutputConfigurationParameter1
+Configuration11_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration11_Name2=OutputConfigurationParameter2
+Configuration11_Item2=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration11_Name3=OutputConfigurationParameter3
+Configuration11_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration11_Name4=OutputConfigurationParameter4
+Configuration11_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration11_Name5=OutputConfigurationParameter5
+Configuration11_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MidLayer1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration11_Name6=OutputConfigurationParameter6
+Configuration11_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MidLayer2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration11_Name7=OutputConfigurationParameter7
+Configuration11_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration11_Name8=OutputConfigurationParameter8
+Configuration11_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration11_Name9=OutputConfigurationParameter9
+Configuration11_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration11_Name10=OutputConfigurationParameter10
+Configuration11_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=KeepOutLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration11_Name11=OutputConfigurationParameter11
+Configuration11_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+PcbPrintPreferences11=
 
 [PublishSettings]
 OutputFilePath2=
@@ -263,7 +299,7 @@ OutputFileName3=
 OutputFileNameMulti3=
 UseOutputNameForMulti3=1
 OutputFileNameSpecial3=
-OpenOutput3=1
+OpenOutput3=0
 OutputFilePath4=
 ReleaseManaged4=1
 OutputBasePath4=Project Outputs for 103091_B0
@@ -333,7 +369,7 @@ PDFVersion5=Default
 RelativeOutputPath2=
 OpenOutputs2=1
 RelativeOutputPath3=C:\Users\dmh\Documents\Altium\103091_B0\Imported (1) 103091_B0.PrjPcb\Project Outputs for 103091_B0\
-OpenOutputs3=1
+OpenOutputs3=0
 AddToProject3=1
 TimestampFolder3=0
 UseOutputName3=0
